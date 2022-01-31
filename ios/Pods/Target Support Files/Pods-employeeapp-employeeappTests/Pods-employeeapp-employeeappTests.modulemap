@@ -1,0 +1,6 @@
+module Pods_employeeapp_employeeappTests {
+  umbrella header "Pods-employeeapp-employeeappTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

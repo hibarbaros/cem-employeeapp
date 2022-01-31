@@ -1,0 +1,4 @@
+#Wed Dec 02 19:22:26 CET 2020
+base.0=/Users/barbarosbayraktar/Documents/GitHub/cemfrexug/employeeapp/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
